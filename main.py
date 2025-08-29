@@ -6,4 +6,4 @@ print("  Hauptprogramm")
 print("----------------------------")
 
 Ausgabe_A()
-
+Ausgabe_B()
